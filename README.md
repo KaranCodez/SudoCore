@@ -85,4 +85,4 @@ java --module-path /path/to/javafx-sdk/lib \
 - **Persistence:** Automatically saves progress to a local `.ser` file using Java Serialization.
 
 ---
-![Sudoku Board](screenshots/Screenshot.png)
+![Sudoku Board](screenshots/ss_sudocore.png)
