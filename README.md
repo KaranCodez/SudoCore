@@ -1,7 +1,9 @@
+![Sudoku Board](screenshots/ss_sudocore.png)
+
 # ☕ Desktop Sudoku (JavaFX)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/UI-JavaFX-blue?style=for-the-badge)
+
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
 ## 📁 Project Overview
@@ -84,5 +86,4 @@ java --module-path /path/to/javafx-sdk/lib \
 - **Auto-Completion Check:** The app listens for board completion and validates the win state.
 - **Persistence:** Automatically saves progress to a local `.ser` file using Java Serialization.
 
----
-![Sudoku Board](screenshots/ss_sudocore.png)
+
