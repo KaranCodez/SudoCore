@@ -84,3 +84,5 @@ java --module-path /path/to/javafx-sdk/lib \
 - **Auto-Completion Check:** The app listens for board completion and validates the win state.
 - **Persistence:** Automatically saves progress to a local `.ser` file using Java Serialization.
 
+---
+![Sudoku Board](screenshots/Screenshot.png)
