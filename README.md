@@ -1,5 +1,5 @@
 ![Sudoku Board](screenshots/ss_sudocore.png)
-
+![Sudoku Board](screenshots/ss_sudocore1.png)
 # ☕ Desktop Sudoku (JavaFX)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
